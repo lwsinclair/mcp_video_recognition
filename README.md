@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mario-andreschak-mcp-video-recognition-badge.png)](https://mseep.ai/app/mario-andreschak-mcp-video-recognition)
+
 # MCP Video Recognition Server
 
 An MCP (Model Context Protocol) server that provides tools for image, audio, and video recognition using Google's Gemini AI.
